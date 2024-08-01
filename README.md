@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shukurjon 
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Java programming language and learning English
+- 🌱 I’m currently learning English and i have essential knowledge of Backend java development
 - 📫 How to reach me shukurjonboqiyev0@gmail.com and my telegram http://t.me/Shukurjon_Boqiyev
 - 😄 Pronouns:  I'm pretty
 
