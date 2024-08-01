@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shukurjon 
-- 👀 I’m interested in Java 
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning Java programming language and learning English
 - 📫 How to reach me shukurjonboqiyev0@gmail.com and my telegram http://t.me/Shukurjon_Boqiyev
 - 😄 Pronouns:  I'm pretty
