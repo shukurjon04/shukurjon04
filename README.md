@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shukurjon 
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning English and i have essential knowledge of Backend java development
-- 📫 How to reach me shukurjonboqiyev0@gmail.com and my telegram http://t.me/Bilmadm_0
+- 📫 How to reach me shukurjonboqiyev0@gmail.com and my telegram http://t.me/Just_Boqiyev
 - 😄 Pronouns:  I'm pretty
 
 <!---
